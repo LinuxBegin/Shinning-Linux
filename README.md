@@ -6,9 +6,12 @@ it's not really an OS, rather an open-source Kernel from which its Oses are made
 # What's a Kernel?
 It's the base software used to make an OS. Microsoft and MacOS kernels are closed-source meaning they control it. But That's not the case with the Linux Kernel, it's completely free and open source, though you have to prove your skills to the "Linux Foundation"
 
+# What's a Desktop Enviroment(DE)?
+It is the GUI of an OS. Linux has various open-source Desktop Enviroments ready for use.
+
 # What distro is for Me?
 
-The Best Distros of all Time
+The Best Distros of all Time (click on them to Download!)
 
 1. [Linux Mint](https://linuxmint.com/)
 
@@ -35,3 +38,12 @@ The Best Distros of all Time
 12. [Manjaro](https://manjaro.org/)
 
 13. [Garuda Linux](https://garudalinux.org/)
+
+For enquiring Key Details i recommend visiting their websites whose links are mentioned above. If you want comprehensive Reviews i suggest these youtubers:
+1. [Distrotube](https://www.youtube.com/@DistroTube) (For reviews)
+2. [Ksk Royal](https://www.youtube.com/@kskroyaltech/videos) (For reviews)
+3. [The Linux Experiment](https://www.youtube.com/@TheLinuxEXP) (For reviews)
+4. [LinuxFam](https://www.youtube.com/@linuxfam) (For Customization and Theming)
+5. [Michael Horn](https://www.youtube.com/@MichaelNROH) (For TroubleShooting)
+6. [NH Soft](https://www.youtube.com/@NHSoft) (For Customization and Theming)
+7. [ArcTechonologies](https://www.youtube.com/@ArcTechnologies) (For Customization and Theming)
