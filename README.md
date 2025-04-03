@@ -38,6 +38,8 @@ The Best Distros of all Time (click on them to Download!)
 12. [Manjaro](https://manjaro.org/)
 
 13. [Garuda Linux](https://garudalinux.org/)
+    
+14. [CachyOS](https://cachyos.org/) 
 
 For enquiring Key Details i recommend visiting their websites whose links are mentioned above. If you want comprehensive Reviews i suggest these youtubers:
 1. [Distrotube](https://www.youtube.com/@DistroTube) (For reviews)
