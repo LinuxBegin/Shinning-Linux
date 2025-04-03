@@ -41,7 +41,9 @@ The Best Distros of all Time (click on them to Download!)
     
 14. [CachyOS](https://cachyos.org/) 
 
-15. [OpenSuse](https://www.opensuse.org/)
+15. [openSUSE](https://www.opensuse.org/)
+    
+16. [Elementary OS](https://elementary.io/) 
 
 For enquiring Key Details i recommend visiting their websites whose links are mentioned above. If you want comprehensive Reviews i suggest these youtubers:
 
@@ -58,9 +60,3 @@ For enquiring Key Details i recommend visiting their websites whose links are me
 6. [NH Soft](https://www.youtube.com/@NHSoft) (For Customization and Theming)
 
 7. [ArcTechonologies](https://www.youtube.com/@ArcTechnologies) (For Customization and Theming)
-
-# Short Desription of Each:-
-1. **Linux Mint:** A User-friendly distro for tech savvy Students who want a practical use of programming or graphical desigining
-2. **Zorin:** An Alternative to Windows 10, but lacks support for the very latest bleeding-edge hardware and software
-3. **MX Linux:** A lightweight Linux Distro for older / unsupported hardware
-4. **Linux Lite:** A user-friendly version of MX Linux that minimizes the need for the Terminal.  
