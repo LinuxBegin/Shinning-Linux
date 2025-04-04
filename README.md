@@ -16,3 +16,9 @@ It is the GUI of an OS. Linux has various open-source Desktop Enviroments ready 
 4. Linux Lite-------------------10. Kali Linux
 5. Kubuntu---------------------11. Parrot OS
 6. Pop!_OS----------------------12. Manjaro
+
+# Description and Usage of Each:-
+
+# 1. Linux Mint:
+The Most beginner-friendly OS for tech-savvy and Programming beginner Students. It is based upon the most popular Linux Distro, Ubuntu 24. Most of it's operations are performed Via the GUI.Here is the [Download](https://linuxmint.com/)
+![image](https://github.com/user-attachments/assets/f3046fa3-6b35-46ab-bf73-1037f79a8e76)&emsp;&emsp;&emsp;![image](https://github.com/user-attachments/assets/4a7e6f3c-2267-404c-ae8a-29fd8b720f38)
