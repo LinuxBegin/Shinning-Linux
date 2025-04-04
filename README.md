@@ -10,5 +10,5 @@ It's the base software used to make an OS. Microsoft and MacOS kernels are close
 It is the GUI of an OS. Linux has various open-source Desktop Enviroments ready for use.
 
 # The Best Distros Out There:-
-___________________________________________________________
-| 1. Linux Mint | 2. Zorin | 3. MX Linux | 4. Linux Lite |
+
+| 1. Linux Mint&emsp;&emsp;2. Zorin&emsp;&emsp;3. MX Linux&emsp;&emsp;4. Linux Lite 
