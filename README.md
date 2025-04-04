@@ -15,4 +15,4 @@ It is the GUI of an OS. Linux has various open-source Desktop Enviroments ready 
 3. MX Linux---------------------9. Ultramarine
 4. Linux Lite-------------------10. Kali Linux
 5. Kubuntu---------------------11. Parrot OS
-6. Pop!_OS---------------------12. Manjaro
+6. Pop!_OS----------------------12. Manjaro
