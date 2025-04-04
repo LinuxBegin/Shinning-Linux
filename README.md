@@ -11,5 +11,5 @@ It is the GUI of an OS. Linux has various open-source Desktop Enviroments ready 
 
 # The Best Distros Out There:-
 1. Linux Mint&emsp;&emsp;&emsp;2. Zorin&emsp;&emsp;&emsp;3. MX Linux&emsp;&emsp;&emsp;4. Linux Lite
-5. Kubuntu&emsp;&emsp;&emsp;6. Pop!_OS&emsp;&emsp;&emsp;7. Fedora&emsp;&emsp;&emsp;8. Deepin
-9. Ultramarine (Flagship edition)&emsp;&emsp;&emsp;10. Kali Linux&emsp;&emsp;&emsp;11. Parrot&emsp;&emsp;&emsp;12. Manjaro
+5. Kubuntu&emsp;&emsp;&emsp;&emsp; 6. Pop!_OS&emsp;&emsp;&emsp;7. Fedora&emsp;&emsp;&emsp;8. Deepin
+9. Ultramarine&emsp;&emsp;&emsp;10. Kali Linux&emsp;&emsp;&emsp;11. Parrot&emsp;&emsp;&emsp;12. Manjaro
