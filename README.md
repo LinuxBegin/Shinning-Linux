@@ -9,15 +9,7 @@ It's the base software used to make an OS. Microsoft and MacOS kernels are close
 # What's a Desktop Enviroment(DE)?
 It is the GUI of an OS. Linux has various open-source Desktop Enviroments ready for use.
 
-# The Best Distros Out There:-
-1. Linux Mint------------------7. Fedora--------------------13. CachyOS
-2. Zorin--------------------------8. Deepin-------------------14. Garuda Linux
-3. MX Linux---------------------9. Ultramarine------------15. openSUSE
-4. Linux Lite-------------------10. Kali Linux
-5. Kubuntu---------------------11. Parrot OS
-6. Pop!_OS----------------------12. Manjaro
-
-# Short Description and Usage of Each:-
+# The Best Distros and their short description and usage:-
 
 # 1. Linux Mint:
 The Most beginner-friendly OS for tech-savvy and Programming beginner Students. It is based upon the most popular Linux Distro, Ubuntu 24. Most of it's operations are performed Via the GUI.Here is the [Download](https://linuxmint.com/)
@@ -32,7 +24,7 @@ A light-weight Linux Distro and this too is User-friendly though uses X11 and ma
 A blazing fast and light-weight version of Zorin. Here's the [Download](https://www.linuxliteos.com/)
 
 # 5. Kubuntu:-
-A KDE plasma flavour of Ubuntu. Highly User-friendly, stable, and easy to customize. Here's the [Download](https://kubuntu.org/)
+A KDE plasma flavour of Ubuntu. Highly User-friendly, stable, and easy to customize. It's best known use-case is for programming and robotic engineering. Also comes as a Raspberry Pi OS. Here's the [Download](https://kubuntu.org/)
 
 # 6. Pop!_OS:-
 A Gaming optimized Distro. Like the previous distros it's user-friendly too. However it's developers are making their own Desktop enviroment(aka the UI), [Cosmic](https://system76.com/cosmic/?srsltid=AfmBOoq0TOWHLpWNAYuA1pWXVWv8yQeJ97rZKHmeGJFimU5QcyAmeGgV). It is expected to release in 2026 with the first stable version. The current ones are in Testing. Here's the [download](https://system76.com/pop/?srsltid=AfmBOopKJCOk8UxZzkef_vkXHZ40iiIKOMFJ0lL_EUrx8mavXngfUcd-)
@@ -42,3 +34,6 @@ This distro is Enterprise-grade made by Red hat Enterprise. It's an indepedently
 
 # 8. Deepin:-
 A beautiful, AI enriched ubuntu-based Distro. It developed by chinese developers, but is highly secure and stable. It has it's own AI in nearly everything! here's a [preview](https://www.youtube.com/watch?v=N1fmzR4ersE) and Here's the [download](https://www.deepin.org/index/en)
+
+# 9. Ultramarine Flagship Edition:-
+Based on Fedora, this distro is highly customizable and is best used for graphic designing. It's a great OS for tech companies and buissnessmen. Here's the [Download](https://ultramarine-linux.org/)
