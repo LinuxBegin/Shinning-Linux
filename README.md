@@ -32,13 +32,13 @@ A light-weight Linux Distro and this too is User-friendly though uses X11 and ma
 A blazing fast and light-weight version of Zorin. Here's the [Download](https://www.linuxliteos.com/)
 
 # 5. Kubuntu:-
-A KDE plasma flavour of Ubuntu. Highly User-friendly, stable, and easy to customize.
+A KDE plasma flavour of Ubuntu. Highly User-friendly, stable, and easy to customize. Here's the [Download](https://kubuntu.org/)
 
 # 6. Pop!_OS:-
-A Gaming optimized Distro. Like the previous distros it's user-friendly too. However it's developers are making their own Desktop enviroment(aka the UI), [Cosmic](https://system76.com/cosmic/?srsltid=AfmBOoq0TOWHLpWNAYuA1pWXVWv8yQeJ97rZKHmeGJFimU5QcyAmeGgV). It is expected to release in 2026 with the first stable version. The current ones are in Testing. Here's the [downlaod](https://system76.com/pop/?srsltid=AfmBOopKJCOk8UxZzkef_vkXHZ40iiIKOMFJ0lL_EUrx8mavXngfUcd-)
+A Gaming optimized Distro. Like the previous distros it's user-friendly too. However it's developers are making their own Desktop enviroment(aka the UI), [Cosmic](https://system76.com/cosmic/?srsltid=AfmBOoq0TOWHLpWNAYuA1pWXVWv8yQeJ97rZKHmeGJFimU5QcyAmeGgV). It is expected to release in 2026 with the first stable version. The current ones are in Testing. Here's the [download](https://system76.com/pop/?srsltid=AfmBOopKJCOk8UxZzkef_vkXHZ40iiIKOMFJ0lL_EUrx8mavXngfUcd-)
 
 # 7. Fedora:-
-This distro is Enterprise-grade made by Red hat Enterprise. It's an indepedently made (meaning unlike others that are modified versions of ubuntu, it's made from scratch)
+This distro is Enterprise-grade made by Red hat Enterprise. It's an indepedently made (meaning unlike others that are modified versions of ubuntu, it's made from scratch). Here's the [Download](https://fedoraproject.org/)
 
 # 8. Deepin:-
 A beautiful, AI enriched ubuntu-based Distro. It developed by chinese developers, but is highly secure and stable. It has it's own AI in nearly everything! here's a [preview](https://www.youtube.com/watch?v=N1fmzR4ersE) and Here's the [download](https://www.deepin.org/index/en)
