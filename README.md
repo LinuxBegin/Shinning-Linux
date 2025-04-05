@@ -17,8 +17,22 @@ It is the GUI of an OS. Linux has various open-source Desktop Enviroments ready 
 5. Kubuntu---------------------11. Parrot OS
 6. Pop!_OS----------------------12. Manjaro
 
-# Description and Usage of Each:-
+# Short Description and Usage of Each:-
 
 # 1. Linux Mint:
 The Most beginner-friendly OS for tech-savvy and Programming beginner Students. It is based upon the most popular Linux Distro, Ubuntu 24. Most of it's operations are performed Via the GUI.Here is the [Download](https://linuxmint.com/)
-![image](https://github.com/user-attachments/assets/f3046fa3-6b35-46ab-bf73-1037f79a8e76)&emsp;&emsp;&emsp;![image](https://github.com/user-attachments/assets/4a7e6f3c-2267-404c-ae8a-29fd8b720f38)
+
+# 2. Zorin:-
+The Best Alternative to Windows 10. Zorin aims at eas-of-use for its users and has built-in support for several windows apps. The only drawback is that it's a bit outdated and apps have varying Desktop versions which may cause minor issues. Here's the [Download](https://zorin.com/os/)
+
+# 3. MX Linux:-
+A light-weight Linux Distro and this too is User-friendly though uses X11 and may not support the latest apps. Here's the [Download](https://mxlinux.org/)
+
+# 4. Linux-Lite:-
+A blazing fast and light-weight version of Zorin. Here's the [Download](https://www.linuxliteos.com/)
+
+# 5. Kubuntu:-
+A KDE plasma flavour of Ubuntu. Highly User-friendly, stable, and easy to customize.
+
+# 6. Pop!_OS:-
+A Gaming optimized Distro. Like the previous distros it's user-friendly too. However it's developers are making their own Desktop enviroment(aka the UI), [Cosmic](https://system76.com/cosmic/?srsltid=AfmBOoq0TOWHLpWNAYuA1pWXVWv8yQeJ97rZKHmeGJFimU5QcyAmeGgV)
